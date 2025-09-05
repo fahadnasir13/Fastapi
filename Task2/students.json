@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Ali Khan", "field_of_study": "Computer Science", "cgpa": 3.6},
+  {"id": 2, "name": "Sara Ahmed", "field_of_study": "Electrical Engineering", "cgpa": 3.9},
+  {"id": 3, "name": "Bilal Malik", "field_of_study": "Mechanical Engineering", "cgpa": 2.8},
+  {"id": 4, "name": "Ayesha Noor", "field_of_study": "Artificial Intelligence", "cgpa": 3.4},
+  {"id": 5, "name": "Usman Tariq", "field_of_study": "Civil Engineering", "cgpa": 3.2},
+  {"id": 6, "name": "Hina Raza", "field_of_study": "Data Science", "cgpa": 3.7},
+  {"id": 7, "name": "Fahad Sheikh", "field_of_study": "Software Engineering", "cgpa": 2.9},
+  {"id": 8, "name": "Mariam Iqbal", "field_of_study": "Biotechnology", "cgpa": 3.5},
+  {"id": 9, "name": "Zain Ali", "field_of_study": "Information Technology", "cgpa": 3.1},
+  {"id": 10, "name": "Nida Anwar", "field_of_study": "Robotics", "cgpa": 3.8}
+]
