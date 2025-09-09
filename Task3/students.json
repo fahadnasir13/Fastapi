@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Khan",
+    "age": 20,
+    "roll_number": "R001",
+    "grade": "A"
+  },
+  {
+    "id": 2,
+    "name": "Sara Ahmed",
+    "age": 22,
+    "roll_number": "R002",
+    "grade": "B"
+  },
+  {
+    "id": 3,
+    "name": "Hassan Raza",
+    "age": 19,
+    "roll_number": "R003",
+    "grade": "A+"
+  }
+]
